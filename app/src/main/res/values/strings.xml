@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteKotlin</string>
+    <string name="hint_nombre">Ingrese su Nombre</string>
+    <string name="hint_edad">Ingrese su Edad</string>
+    <string name="txt_btn_guardar">Guardar</string>
+    <string name="txt_btn_leer">Mostrar Datos</string>
+</resources>
